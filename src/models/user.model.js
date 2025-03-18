@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-import { Video } from "./video.model";
+import { Video } from "./video.model.js";
 import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
 
